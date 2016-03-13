@@ -1,0 +1,19 @@
+# Server version 0.08 running on 142.157.168.132:8123
+# Game ID: 124
+# Board class: halma.CCBoard
+# Timeout: 1000
+# Date: Thu Apr 03 16:12:39 GMT-04:00 2014
+# Player 1: Player-0, '260449697', running on 142.157.168.132
+# Player 2: Player-1, '260449697', running on 142.157.168.132
+# Player 3: Player-2, '260449697', running on 142.157.168.132
+# Player 4: Player-3, 'Human', running on 142.157.168.132
+START Player-0 260449697
+START Player-1 260449697
+START Player-2 260449697
+START Player-3 Human
+0 (3,1) (4,2)
+1 (12,1) (11,1)
+2 (3,14) (4,13)
+GAMEOVER USER CANCEL
+UNDECIDED
+# Game ended: Thu Apr 03 16:12:54 GMT-04:00 2014

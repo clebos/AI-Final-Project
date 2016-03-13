@@ -1,0 +1,32 @@
+# Server version 0.08 running on 142.157.168.156:8123
+# Game ID: 11
+# Board class: halma.CCBoard
+# Timeout: 1000
+# Date: Thu Mar 20 17:03:25 GMT-04:00 2014
+# Player 1: Player-0, 'random', running on 142.157.168.156
+# Player 2: Player-1, 'random', running on 142.157.168.156
+# Player 3: Player-2, 'random', running on 142.157.168.156
+# Player 4: Player-3, 'Human', running on 142.157.168.156
+START Player-0 random
+START Player-1 random
+START Player-2 random
+START Player-3 Human
+0 (1,2) (3,2)
+0 null null
+1 (12,0) (11,1)
+2 (2,15) (4,13)
+2 (4,13) (2,15)
+2 (2,15) (4,13)
+2 (4,13) (2,15)
+2 (2,15) (4,15)
+2 null null
+3 (13,13) (12,13)
+0 (2,1) (2,3)
+0 (2,3) (4,1)
+0 (4,1) (2,1)
+0 (2,1) (2,3)
+0 null null
+1 (14,1) (12,3)
+1 null null
+2 (0,12) (0,11)
+GAMEOVER DISCONNECTION Player-0

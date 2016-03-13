@@ -1,0 +1,16 @@
+# Server version 0.08 running on 142.157.168.42:8123
+# Game ID: 103
+# Board class: halma.CCBoard
+# Timeout: 1000
+# Date: Thu Apr 03 00:48:18 GMT-04:00 2014
+# Player 1: Player-0, '260449697', running on 142.157.168.42
+# Player 2: Player-1, '260449697', running on 142.157.168.42
+# Player 3: Player-2, '260449697', running on 142.157.168.42
+# Player 4: Player-3, '260449697', running on 142.157.168.42
+START Player-0 260449697
+START Player-1 260449697
+START Player-2 260449697
+START Player-3 260449697
+GAMEOVER ILLEGAL MOVE: Player 0 end turn
+WINNER Player-1
+# Game ended: Thu Apr 03 00:48:18 GMT-04:00 2014

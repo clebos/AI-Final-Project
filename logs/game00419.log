@@ -1,0 +1,18 @@
+# Server version 0.08 running on 192.168.2.17:8123
+# Game ID: 419
+# Board class: halma.CCBoard
+# Timeout: 1000
+# Date: Fri Apr 11 03:22:26 GMT-04:00 2014
+# Player 1: Player-0, '260449697', running on 192.168.2.17
+# Player 2: Player-1, 'Human', running on 192.168.2.17
+# Player 3: Player-2, 'Human', running on 192.168.2.17
+# Player 4: Player-3, 'Human', running on 192.168.2.17
+START Player-0 260449697
+START Player-1 Human
+START Player-2 Human
+START Player-3 Human
+0 (1,1) (3,3)
+0 null null
+GAMEOVER USER CANCEL
+UNDECIDED
+# Game ended: Fri Apr 11 03:22:27 GMT-04:00 2014

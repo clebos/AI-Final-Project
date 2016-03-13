@@ -1,0 +1,22 @@
+# Server version 0.08 running on Claudine-PC:8123
+# Game ID: 541
+# Board class: halma.CCBoard
+# Timeout: 1000
+# Date: Fri Apr 11 17:18:07 GMT-04:00 2014
+# Player 1: Player-0, '260449697', running on Claudine-PC
+# Player 2: Player-1, '260454054', running on Claudine-PC
+# Player 3: Player-2, '260454054', running on Claudine-PC
+# Player 4: Player-3, 'Human', running on Claudine-PC
+START Player-0 260449697
+START Player-1 260454054
+START Player-2 260454054
+START Player-3 Human
+0 (1,0) (3,2)
+0 null null
+1 (14,1) (12,3)
+1 null null
+2 (1,14) (3,12)
+2 null null
+GAMEOVER USER CANCEL
+UNDECIDED
+# Game ended: Fri Apr 11 17:18:09 GMT-04:00 2014

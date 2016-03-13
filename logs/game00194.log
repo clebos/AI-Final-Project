@@ -1,0 +1,19 @@
+# Server version 0.08 running on Claudine-PC:8123
+# Game ID: 194
+# Board class: halma.CCBoard
+# Timeout: 1000
+# Date: Mon Apr 07 11:26:40 GMT-04:00 2014
+# Player 1: Player-0, '260449697', running on Claudine-PC
+# Player 2: Player-1, '260449697', running on Claudine-PC
+# Player 3: Player-2, '260449697', running on Claudine-PC
+# Player 4: Player-3, '260449697', running on Claudine-PC
+START Player-0 260449697
+START Player-1 260449697
+START Player-2 260449697
+START Player-3 260449697
+0 (2,2) (3,3)
+1 (14,3) (15,4)
+2 (2,13) (4,15)
+GAMEOVER TIMEOUT Player-2
+WINNER Player-0
+# Game ended: Mon Apr 07 11:26:41 GMT-04:00 2014

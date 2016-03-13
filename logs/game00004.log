@@ -1,0 +1,16 @@
+# Server version 0.08 running on 142.157.168.156:8123
+# Game ID: 4
+# Board class: halma.CCBoard
+# Timeout: 1000
+# Date: Thu Mar 20 16:35:25 GMT-04:00 2014
+# Player 1: Player-0, 'Human', running on 142.157.168.156
+# Player 2: Player-1, 'random', running on 142.157.168.156
+# Player 3: Player-2, 'random', running on 142.157.168.156
+# Player 4: Player-3, 'random', running on 142.157.168.156
+START Player-0 Human
+START Player-1 random
+START Player-2 random
+START Player-3 random
+GAMEOVER USER CANCEL
+UNDECIDED
+# Game ended: Thu Mar 20 16:35:42 GMT-04:00 2014
